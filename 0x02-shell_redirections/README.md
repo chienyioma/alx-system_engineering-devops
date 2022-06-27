@@ -16,3 +16,5 @@ Displays the 3rd line of the file iacta
 Creates a file where special characters are ignored
 # Task 8
 Redirects output to overwrute a file
+# Task 9
+Duplicate the last line of a file
