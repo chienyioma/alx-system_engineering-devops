@@ -10,3 +10,5 @@ Displays the contents of /etc/passwd and /etc/hosts
 Displays the last 10 lines of /etc/passwd
 # Task 5
 Displays the first 10 lines of /etc/passwd
+# Task 6
+Displays the 3rd line of the file iacta
