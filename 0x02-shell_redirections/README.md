@@ -20,3 +20,5 @@ Redirects output to overwrute a file
 Duplicate the last line of a file
 # Task 10
 Delete all js files
+# Task 11
+Count all directories and subdirectories excluding current directory
