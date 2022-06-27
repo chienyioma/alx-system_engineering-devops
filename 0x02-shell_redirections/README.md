@@ -4,3 +4,5 @@ Prints 'Hello, World'
 Displays a confused smiley "(Ôo)'
 # Task 2
 Displays the content of /etc/passwd
+# Task 3
+Displays the contents of /etc/passwd and /etc/hosts
