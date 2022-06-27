@@ -18,3 +18,5 @@ Creates a file where special characters are ignored
 Redirects output to overwrute a file
 # Task 9
 Duplicate the last line of a file
+# Task 10
+Delete all js files
