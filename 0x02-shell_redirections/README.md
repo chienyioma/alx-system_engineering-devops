@@ -8,3 +8,5 @@ Displays the content of /etc/passwd
 Displays the contents of /etc/passwd and /etc/hosts
 # Task 4
 Displays the last 10 lines of /etc/passwd
+# Task 5
+Displays the first 10 lines of /etc/passwd
