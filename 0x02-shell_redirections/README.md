@@ -12,3 +12,4 @@
 # Task 11 Count all directories and subdirectories excluding current directory
 # Task 12 List 10 newest files
 # Task 13 Print uniq words
+# Task 14 Find a specific tesxt in /etc/passwd
