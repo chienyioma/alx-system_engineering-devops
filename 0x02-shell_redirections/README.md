@@ -15,3 +15,4 @@
 # Task 14 Find a specific tesxt in /etc/passwd
 # Task 15 Count the number of times a word appears
 # Task 16 Display lines of specific words and three more after
+# Task 17 Display all lines that do not contain a word
