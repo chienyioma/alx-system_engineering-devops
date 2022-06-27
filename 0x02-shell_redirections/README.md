@@ -13,3 +13,4 @@
 # Task 12 List 10 newest files
 # Task 13 Print uniq words
 # Task 14 Find a specific tesxt in /etc/passwd
+# Task 15 Count the number of times a word appears
