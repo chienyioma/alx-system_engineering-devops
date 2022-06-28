@@ -17,3 +17,4 @@
 # Task 16 Display lines of specific words and three more after
 # Task 17 Display all lines that do not contain a word
 # Task 18 Display lines beginning with letter
+# Task 19 Replace multiple texts
