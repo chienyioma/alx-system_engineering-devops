@@ -4,3 +4,4 @@
 # Task 3 Count the directories in PATH
 # Task 4 Lists environment variables
 # Task 5 List all local and environment variables
+# Task 6 Create local variable
