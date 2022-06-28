@@ -22,3 +22,6 @@
 # Task 21 Reverse characters
 # Task 22 Sorting users and home directories
 # Task 23 Display all empty files and directories
+# Task 24 Displays all the .gif files
+# Task 25 Decodes acrostics
+# Task 26 Parses web server logs
