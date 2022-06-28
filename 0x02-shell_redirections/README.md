@@ -18,3 +18,4 @@
 # Task 17 Display all lines that do not contain a word
 # Task 18 Display lines beginning with letter
 # Task 19 Replace multiple texts
+# Task 2o Delete characters
