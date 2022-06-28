@@ -21,3 +21,4 @@
 # Task 20 Delete characters
 # Task 21 Reverse characters
 # Task 22 Sorting users and home directories
+# Task 23 Display all empty files and directories
