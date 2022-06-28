@@ -20,3 +20,4 @@
 # Task 19 Replace multiple texts
 # Task 20 Delete characters
 # Task 21 Reverse characters
+# Task 22 Sorting users and home directories
