@@ -13,3 +13,4 @@
 # Task 12 Print all combinations of two characters
 # Task 13 Prints a float number
 # Task 14 Base 10 to hexadecimal conversion
+# Task 15 Encodes and decodes text
