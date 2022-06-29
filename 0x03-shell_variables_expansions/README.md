@@ -14,3 +14,4 @@
 # Task 13 Prints a float number
 # Task 14 Base 10 to hexadecimal conversion
 # Task 15 Encodes and decodes text
+# Task 16 Prints every other line from input starting with the first line
