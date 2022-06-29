@@ -12,3 +12,4 @@
 # Task 11 Convert base 2 to base 10
 # Task 12 Print all combinations of two characters
 # Task 13 Prints a float number
+# Task 14 Base 10 to hexadecimal conversion
