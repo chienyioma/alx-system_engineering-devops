@@ -7,3 +7,4 @@
 # Task 6 Create local variable
 # Task 7 Create environment variable
 # Task 8 Bash Arithmetic Expansion
+# Task 9 Bash Arithmetic Expansion
