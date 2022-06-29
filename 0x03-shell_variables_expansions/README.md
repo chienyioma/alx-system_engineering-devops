@@ -10,3 +10,4 @@
 # Task 9 Bash Arithmetic Expansion
 # Task 10 Displays the result of BREATH to the power LOVE
 # Task 11 Convert base 2 to base 10
+# Task 12 Print all combinations of two characters
